@@ -1,5 +1,37 @@
 [
 	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocation.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocation.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocationIfSeen.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocationIfSeen.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTTask_ClearBlackboardValue.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
@@ -16,6 +48,22 @@
 		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTTask_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTTask_Shoot.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Gun.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
@@ -25,6 +73,22 @@
 	},
 	{
 		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Gun.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\KillEmAllGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\KillEmAllGameMode.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
@@ -73,6 +137,22 @@
 	},
 	{
 		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterPlayerController.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.255.rsp"
